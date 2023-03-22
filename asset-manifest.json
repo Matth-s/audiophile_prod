@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d29089e.css",
-    "main.js": "/static/js/main.68e3107a.js",
+    "main.css": "/static/css/main.04a68293.css",
+    "main.js": "/static/js/main.a0d142a6.js",
     "static/media/image-earphones-yx1.svg": "/static/media/image-earphones-yx1.80d3419d0c21d71552b1.svg",
     "static/media/image-speaker-zx9.svg": "/static/media/image-speaker-zx9.503cc2272f89875fd795.svg",
     "static/media/image-best-gear.jpg": "/static/media/image-best-gear.4d4a28e9e7c9ab158dd8.jpg",
@@ -10,11 +10,11 @@
     "static/media/image-speaker-zx7.jpg": "/static/media/image-speaker-zx7.3d4940e89ebadd9beb50.jpg",
     "index.html": "/index.html",
     "static/media/pattern-circles.svg": "/static/media/pattern-circles.f4df3610b83b818abbbe.svg",
-    "main.8d29089e.css.map": "/static/css/main.8d29089e.css.map",
-    "main.68e3107a.js.map": "/static/js/main.68e3107a.js.map"
+    "main.04a68293.css.map": "/static/css/main.04a68293.css.map",
+    "main.a0d142a6.js.map": "/static/js/main.a0d142a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d29089e.css",
-    "static/js/main.68e3107a.js"
+    "static/css/main.04a68293.css",
+    "static/js/main.a0d142a6.js"
   ]
 }
